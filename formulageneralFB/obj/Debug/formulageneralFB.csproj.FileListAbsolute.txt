@@ -1,0 +1,17 @@
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\formulageneralFB.exe.config
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\formulageneralFB.exe
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\formulageneralFB.pdb
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\FireSharp.dll
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\RestSharp.dll
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\bin\Debug\RestSharp.xml
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csprojAssemblyReference.cache
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.Form1.resources
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.Properties.Resources.resources
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.GenerateResource.cache
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.CoreCompileInputs.cache
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.CopyComplete
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.exe
+C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.pdb
