@@ -24,11 +24,6 @@ namespace formulageneralFB
         public Form1()
         {
             InitializeComponent();
-           
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
             client = new FireSharp.FirebaseClient(config);
             if (client != null)
             {
@@ -41,6 +36,12 @@ namespace formulageneralFB
                 dataGridView1.DataSource = dt;
                 grid();
             }
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+           
 
         }
 
@@ -92,6 +93,7 @@ namespace formulageneralFB
         }
         private async void grid()
         {
+            dt.Rows.Clear();
             int i = 0;
             FirebaseResponse response = await client.GetTaskAsync("Counter/node");
             counter obj = response.ResultAs<counter>();
@@ -125,6 +127,13 @@ namespace formulageneralFB
 
                 }
             }
+        }
+
+        private  void btnrefresh_Click(object sender, EventArgs e)
+        {
+            grid();
+            
+            
         }
     }
 }
