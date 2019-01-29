@@ -15,3 +15,20 @@ C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\for
 C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.CopyComplete
 C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.exe
 C:\Users\Reborn 3.0\source\repos\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.pdb
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\formulageneralFB.exe.config
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\formulageneralFB.exe
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\formulageneralFB.pdb
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\FireSharp.dll
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\RestSharp.dll
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\bin\Debug\RestSharp.xml
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csprojAssemblyReference.cache
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.Form1.resources
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.GenerateResource.cache
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.csproj.CopyComplete
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.exe
+C:\Users\user\Documents\GitHub\formulageneralFB\formulageneralFB\obj\Debug\formulageneralFB.pdb
